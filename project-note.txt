@@ -1,0 +1,16 @@
+font awesome icon class
+    home: <i class="fa-solid fa-door-open"></i>
+    about: <i class="fa-solid fa-user"></i>
+    work: <i class="fa-solid fa-laptop"></i>
+    blog" <i class="fa-solid fa-blog"></i>
+    contact: <i class="fa-solid fa-address-card"></i>
+
+google font
+    font-family: 'Roboto Slab', serif;
+
+color:
+    body bg color: rgba(20, 116, 214, 0.5);
+    nav ul -> bg color: #eee;
+
+    nav ul li -> color: #444;
+    nav ul li hover -> color #100C0F;
